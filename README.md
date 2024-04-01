@@ -1,1 +1,2 @@
-Day 4 task
+Anonymous function & IIFE Programs
+Arrow function programs
